@@ -7,7 +7,7 @@ body {
 img {
   border: 5px;
   margin: 10px;
-  background-color: aliceblue; 
+  background-color: aliceblue;  
 }
 
 h1,h2 {
@@ -29,16 +29,15 @@ p {
   justify-content: center;
   flex-direction: column;
   margin: 50px;
-
 }
 
-figure{
+figure {
   margin: auto;
   text-align: center;
   border: 5px solid  rgb(246, 244, 241);
   background-color: aliceblue;
 }
 
-figcaption{
+figcaption {
   text-align: center;
 }
