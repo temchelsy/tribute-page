@@ -7,10 +7,11 @@ body {
 img {
   border: 5px;
   margin: 10px;
-  background-color: aliceblue; 
+  background-color: aliceblue;
 }
 
-h1,h2 {
+h1,
+h2 {
   text-align: center;
 }
 
@@ -35,7 +36,7 @@ p {
 figure {
   margin: auto;
   text-align: center;
-  border: 5px solid  azure;
+  border: 5px solid azure;
   background-color: aliceblue;
 }
 
