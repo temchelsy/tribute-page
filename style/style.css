@@ -1,6 +1,6 @@
 body {
     font-size: 15px;
-    background-color: beige;
+    background-color: rgb(246, 244, 241);
     margin: 5px;
 }
 
@@ -36,8 +36,8 @@ p {
 figure{
   margin: auto;
   text-align: center;
-  border: 5px solid  beige;
-  background-color: white;
+  border: 5px solid  rgb(246, 244, 241);
+  background-color: aliceblue;
 }
 
 figcaption{
