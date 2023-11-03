@@ -1,14 +1,13 @@
 body {
-    font-size: 15px;
-    background-color: rgb(246, 244, 241);
-    margin: 5px;
+  font-size: 15px;
+  background-color: rgb(246, 244, 241);
+  margin: 5px;
 }
 
 img {
   border: 5px;
   margin: 10px;
-  background-color: aliceblue;
-  
+  background-color: aliceblue; 
 }
 
 h1,h2 {
@@ -19,12 +18,12 @@ p {
   text-align: center;
 }
 
-.line{
+.line {
   width: 50%;
   margin: auto;
 }
 
-.line ul{
+.line ul {
   display: flex;
   align-items: start;
   justify-content: center;
@@ -43,11 +42,3 @@ figure{
 figcaption{
   text-align: center;
 }
-
-
-
-
-
-
-
-
