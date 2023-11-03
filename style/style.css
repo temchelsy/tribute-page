@@ -1,0 +1,53 @@
+body {
+    font-size: 15px;
+    background-color: beige;
+    margin: 5px;
+}
+
+img {
+  border: 5px;
+  margin: 10px;
+  background-color: aliceblue;
+  
+}
+
+h1,h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+.line{
+  width: 50%;
+  margin: auto;
+}
+
+.line ul{
+  display: flex;
+  align-items: start;
+  justify-content: center;
+  flex-direction: column;
+  margin: 50px;
+
+}
+
+figure{
+  margin: auto;
+  text-align: center;
+  border: 5px solid  beige;
+  background-color: white;
+}
+
+figcaption{
+  text-align: center;
+}
+
+
+
+
+
+
+
+
