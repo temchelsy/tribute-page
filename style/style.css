@@ -1,13 +1,13 @@
 body {
   font-size: 15px;
-  background-color: rgb(246, 244, 241);
+  background-color: azure;
   margin: 5px;
 }
 
 img {
   border: 5px;
   margin: 10px;
-  background-color: aliceblue;  
+  background-color: aliceblue; 
 }
 
 h1,h2 {
@@ -29,12 +29,13 @@ p {
   justify-content: center;
   flex-direction: column;
   margin: 50px;
+  gap: 2rem;
 }
 
 figure {
   margin: auto;
   text-align: center;
-  border: 5px solid  rgb(246, 244, 241);
+  border: 5px solid  azure;
   background-color: aliceblue;
 }
 
